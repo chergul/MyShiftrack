@@ -1,0 +1,23 @@
+#components-layout-demo-top-side-2 .logo {
+    /* float: left; */
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: grey;
+  }
+  
+  .ant-row-rtl #components-layout-demo-top-side-2 .logo {
+    /* float: right; */
+    margin: 16px 0 16px 24px;
+  }
+  
+  .site-layout-background {
+    background: grey;
+  }
+  .pic {
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  
