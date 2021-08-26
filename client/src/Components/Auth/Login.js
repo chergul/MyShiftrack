@@ -46,6 +46,7 @@ const Login = () => {
       console.log(data);
       Auth.login(data.login.token);
     } catch (e) {
+     console.trace();
       console.error(e);
     }
 
